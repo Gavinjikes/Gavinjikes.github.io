@@ -25,3 +25,6 @@ I've given lots of proof and I just want my domain back, I had no malicious inte
 
 # Please give more in depth reviews before suspending a domain.
 Don't do this to other people! Do more in depth research before false suspending a domain.
+
+# I really need this domain
+Why? I use cloudflares redirect email feature so I can use for email contact@gavinstrikes.cloud as my email and I have a lot of accounts linked to this email.

@@ -17,3 +17,5 @@ In the meantime, Anything else I can help you with today?
 # Further Proof
 Don't believe me? Drop the loader.exe into a c# decompiler such a dnspy and get the full source code, It's mostly the keyauth c# example but modified.
 
+# Why does it get flags on virus total and antiviruses?
+Well, it's because I don't have a digital signature, and I log HWIDs and IP addresses, which is normal for authentication. I explained that I use KeyAuth, a solution as open-source authencation. You can find it here: https://github.com/KeyAuth

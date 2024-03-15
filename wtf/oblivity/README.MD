@@ -7,10 +7,14 @@ Here is the source: https://github.com/Gavinjikes/Source-Code
 
 # For hostinger
 To whom it may concern at Hostinger,
+
 If a hostinger staff is reading this, This is just a personal place for my own projects, Nobody else is needed to download it.
+
 The reason why I removed and replaced the exe file is because I was trying to remove keyauth but failed, You can look at my old commit and download the file with keyauth.
+
 Heres the repositery with keyauth showing that it has no harmful intentions https://github.com/KeyAuth/KeyAuth-CSHARP-Example
-I have provided the source code to said project that was flagging a lot of antivirus software, Here is the source: https://github.com/Gavinjikes/Source-Code it contains everything
+
+I have provided the source code to said project that was flagging a lot of antivirus software, Here is the source code: https://github.com/Gavinjikes/Source-Code it contains everything
 
 No terms of service were violated. I have thoroughly reviewed Hostinger's Universal Terms of Service Agreement at https://www.hostinger.com/legal/universal-terms-of-service-agreement 
 

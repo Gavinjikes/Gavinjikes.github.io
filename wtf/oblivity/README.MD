@@ -19,3 +19,9 @@ Don't believe me? Drop the loader.exe into a c# decompiler such a dnspy and get 
 
 # Why does it get flags on virus total and antiviruses?
 Well, it's because I don't have a digital signature, and I log HWIDs and IP addresses, which is normal for authentication. I explained that I use KeyAuth, a solution as open-source authencation. You can find it here: https://github.com/KeyAuth
+
+# Now... Please unsuspended my domain!
+I've given lots of proof and I just want my domain back, I had no malicious intent.
+
+# Please give more in depth reviews before suspending a domain.
+Don't do this to other people! Do more in depth research for false suspending a domain.
